@@ -1,6 +1,7 @@
 # calling-out-bluff
 
 Public Implementation of paper Calling Out Bluff: Attacking the Robustness of Automatic Scoring Systems with Simple Adversarial Testing. </br>
+More detailed repo here - https://github.com/midas-research/calling-out-bluff
 [Arxiv Link](http://arxiv.org/abs/2007.06796) </br>
 Authors:
 Anubha Kabra*,Yaman Kumar*, Mehar Bhatia*, Jessy Junyi Li, Di Jin, Rajiv Ratn Shah
