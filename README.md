@@ -3,9 +3,8 @@
 Public Implementation of paper Calling Out Bluff: Attacking the Robustness of Automatic Scoring Systems with Simple Adversarial Testing. </br>
 [Arxiv Link](http://arxiv.org/abs/2007.06796) </br>
 Authors:
-Yaman Kumar*, Mehar Bhatia*, Anubha Kabra*, Jessy Junyi Li, Di Jin, Rajiv Ratn Shah
+Anubha Kabra*,Yaman Kumar*, Mehar Bhatia*, Jessy Junyi Li, Di Jin, Rajiv Ratn Shah
 </br>
-For any questions or issues, feel free to email us at [yamank@iiitd.ac.in](mailto:yamank@iiitd.ac.in), [mehar.bhatia@midas.center](mailto:mehar.bhatia@midas.center).
 
 ### Generating Adversarial Samples ###
 To generate our adversarial samples, please view the file 'TestCaseSuite_CallingOutBluff.ipynb'
